@@ -1,0 +1,13 @@
+1° - yarn init -y (inicia projeto criando arquivo package.json)
+
+2° - yarn add express
+     yarn add typescript -D
+     yarn tsc --init
+
+3° - yarn tsc (depois de configurar o arquivo tsconfig)
+
+BIBLIOTECAS
+4° - yarn add @types/express -D
+     yarn add ts-node-dev -D
+     yarn add uuidv4
+     yarn add date fns
